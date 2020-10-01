@@ -23,14 +23,14 @@ dd {
   margin: 0;
 }
 </style>
-<form action="https://formspree.io/tobias_burger@hotmail.com"
+<form action="https://formsubmit.co/tobias_burger@hotmail.com"
       method="POST" id="contact-form">
   <dl>
     <dt>
       <label for="email">{{ page.contact.email }}</label>
     </dt>
     <dd>
-      <input type="email" id="email" name="_replyto" required>
+      <input type="email" id="email" name="email" required>
     </dd>
     <dt>
       <label for="message">{{ page.contact.message }}</label>
@@ -41,10 +41,13 @@ dd {
     <dt>&nbsp;</dt>
     <dd>
       <input type="hidden" name="_subject" value="Neue Anfrage von www.ochsenkofler.it" />
-      <input type="hidden" name="_format" value="plain" />
-      <input type="hidden" name="_next" value="{{ '/thanks/' | prepend: page.language | relative_url }}" />
-      <input type="hidden" name="_cc" value="info@ochsenkofler.it" />
+      <input type="hidden" name="_template" value="basic" />
+      <input type="hidden" name="_next" value="{{ '/thanks/' | prepend: page.language | absolute_url }}" />
+      <!-- <input type="hidden" name="_cc" value="info@ochsenkofler.it" /> -->
       <input type="submit" value="{{ page.contact.send }}" class="submit-button">
+      <!-- <input type="hidden" name="_webhook" value="https://yourdomain.co/your-webhook"> -->
+      <input type="hidden" name="_captcha" value="false">
+      <input type="text" name="_honey" style="display:none">
     </dd>
   </dl>
 </form>
