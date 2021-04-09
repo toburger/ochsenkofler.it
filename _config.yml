@@ -5,7 +5,7 @@ description: "Der Ochsenkoflerhof liegt auf der Sonnenseite des Etschtals. Erleb
 keywords: "ochsenkofler,ochsenkoflerhof,urlaub auf dem bauernhof,burgstall,südtirol,alto adige,postal,burger,appartamenti,ferienwohnungen,apartement,zimmer,camere,vöranerweg 4,via verano 4,39014"
 twitter_username: toburger
 github_username:  toburger
-url: "" # Leave empty, so the correct URL ist read from the environment
+url: "https://www.ochsenkofler.it" # Leave empty, so the correct URL ist read from the environment
 baseurl: "" # the subpath of your site, e.g. /blog/ should never be /, see https://ben.balter.com/jekyll-style-guide/config/#baseurl
 
 # Build settings
