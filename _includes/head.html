@@ -9,6 +9,21 @@
     <meta name="application-name" content="Ochsenkoflerhof" />
     <meta name="msapplication-TileColor" content="#812020" />
     <meta name="msapplication-TileImage" content="{{ "assets/icon.png" | relative_url }}" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ '/' | absolute_url }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title | prepend: ' - ' | prepend: site.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:image" content="{{ 'assets/images/orig/' | append: 'roland/main/luftaufnahme.jpg' | append: image | absolute_url }}">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ '/' | absolute_url }}">
+    <meta property="twitter:title" content="{% if page.title %}{{ page.title | prepend: ' - ' | prepend: site.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="twitter:description" content="{{ site.description }}"">
+    <meta property="twitter:image" content="{{ 'assets/images/orig/' | append: 'roland/main/luftaufnahme.jpg' | append: image | absolute_url }}">
+
     <link href="{{ "css/Reset.min.css" | relative_url }}" rel="stylesheet" type="text/css" />
     <link href="//fonts.googleapis.com/css?family=UnifrakturCook:700" rel="stylesheet" type="text/css" />
     <link href="//fonts.googleapis.com/css?family=Duru+Sans" rel="stylesheet" type="text/css" />
