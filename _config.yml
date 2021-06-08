@@ -38,6 +38,12 @@ defaults:
                 email: 'Ihre E-Mail Adresse:'
                 message: 'Nachricht:'
                 send: Anfrage senden
+            cookie:
+                title: 'Ihre Privatsphäre ist uns wichtig'
+                description: 'Wir benutzen Cookies um den Seitentraffic zu analysieren.'
+                acceptLabel: 'Alles akzeptieren'
+                settingsLabel: 'Einstellungen'
+                closeLabel: 'Schließen'
     -
         scope:
             path: "it"
@@ -55,6 +61,12 @@ defaults:
                 email: 'Indirizzo E-Mail:'
                 message: 'Messaggio:'
                 send: Invia
+            cookie:
+                title: 'Noi usiamo i cookies'
+                description: 'Noi usiamo i cookies per analizzare il traffico sulla nostra pagina.'
+                acceptLabel: 'Accetta tutto'
+                settingsLabel: 'Impostazioni'
+                closeLabel: 'Chiudere'
 
 collections:
     ferienwohnungen:

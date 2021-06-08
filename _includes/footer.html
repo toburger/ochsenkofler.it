@@ -1,14 +1,52 @@
+<link rel="stylesheet" href="//unpkg.com/@beyonk/gdpr-cookie-consent-banner/dist/style.css">
+<script src="//unpkg.com/@beyonk/gdpr-cookie-consent-banner/dist/browser/bundle.min.js"></script>
+<style>
+.cookieConsentWrapper {
+    background: #812020;
+    -webkit-box-shadow: 0 0 0.5em #000;
+    -moz-box-shadow: 0 0 0.5em #000;
+    box-shadow: 0 0 0.5em #000;
+}
+</style>
 <script type="text/javascript">
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-2898486-1']);
-    _gaq.push(['_gat._anonymizeIp']);
-    _gaq.push(['_trackPageview']);
+    var options = {
+        cookieName: 'ochsenkofler_gdpr',
+        cookieConfig: {
+            domain: 'ochsenkofler.it',
+            path: '/'
+        },
+        heading: '{{ page.cookie.title }}',
+        description: '{{ page.cookie.description }}',
+        acceptLabel: '{{ page.cookie.acceptLabel }}',
+        settingsLabel: '{{ page.cookie.settingsLabel }}',
+        closeLabel: '{{ page.cookie.closeLabel }}',
+        choices: {
+            necessary: false,
+            tracking: false,
+            marketing: false,
+            analytics: {
+                label: 'Analytics cookies',
+                description: 'Used to control Google Analytics, a 3rd party tool offered by Google to track user behavior.',
+                value: true
+            },
+        },
+        showEditIcon: false,
+        categories: {
+            analytics: function() {
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-2898486-1']);
+                _gaq.push(['_gat._anonymizeIp']);
+                _gaq.push(['_trackPageview']);
 
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+                (function () {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+            },
+        }
+    };
 
+    GdprConsent.attachBanner(document.body, options);
 </script>
