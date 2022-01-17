@@ -40,7 +40,7 @@ Bad mit Dusche und Wanne, Bidet und WC, Haarföhn
 SAT-TV, gratis WLAN, Zimmersafe, Heizung, Bettwäsche,
 Geschirrtücher, Handtücher
 
-Parkplatz vorhanden
+Parkplätze und **Ladestation für E-Autos** vorhanden.
 
 {% include images.html %}
 
