@@ -4,20 +4,20 @@ permalink: it/prices/
 tags: [menu]
 ---
 
-# Prezzi 2021
+# Prezzi 2022
 
 {: .table .table7c .seasontable }
 |Stagione|Mutspitz 2|Etschtal 3|Laugenspitz 1|Ortlerblick 4 con camera 4b Morgenduft|Akazienduft 4a|Waldruhe 1a|
 |--- |--- |--- |--- |--- |--- |--- |
-|Bassa stagione 09/01 - 26/03|80 €|90 €|80 €|80 €|SC 77 €<br />SS 45 €|SC 77 €<br />SS 45 €|
-|Alta stagione 27/03 - 09/04|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
-|Media stagione 10/04 - 13/05|95 €|110 €|95 €|95 €|SC 82 €<br />SS 50 €|SC 82 €<br />SS 50 €|
-|Alta stagione 14/05 - 04/06|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
-|Media stagione 05/06 - 25/06|95 €|110 €|95 €|95 €|SC 82 €<br />SS 50 €|SC 82 €<br />SS 50 €|
-|Alta stagione 26/06 - 01/10|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
-|Media stagione 02/10 - 05/11|95 €|110 €|95 €|95 €|SC 82 €<br />SS 50 €|SC 82 €<br />SS 50 €|
-|Bassa stagione 06/11 - 17/12|80 €|90 €|80 €|80 €|SC 77 €<br />SS 45 €|SC 77 €<br />SS 45 €|
-|Alta stagione 18/12 - 31/12|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
+|Bassa stagione 08/01 - 08/04|80 €|90 €|80 €|80 €|SC 77 €<br />SS 45 €|SC 77 €<br />SS 45 €|
+|Alta stagione 09/04 - 22/04|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
+|Media stagione 23/04 - 27/05|95 €|110 €|95 €|95 €|SC 82 €<br />SS 50 €|SC 82 €<br />SS 50 €|
+|Alta stagione 28/05 - 17/06|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
+|Media stagione 18/06 - 01/07|95 €|110 €|95 €|95 €|SC 82 €<br />SS 50 €|SC 82 €<br />SS 50 €|
+|Alta stagione 02/07 - 14/10|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
+|Media stagione 15/10 - 04/11|95 €|110 €|95 €|95 €|SC 82 €<br />SS 50 €|SC 82 €<br />SS 50 €|
+|Bassa stagione 05/11 - 16/12|80 €|90 €|80 €|80 €|SC 77 €<br />SS 45 €|SC 77 €<br />SS 45 €|
+|Alta stagione 17/12 - 31/12|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
 
 ### Altri informazioni
 
