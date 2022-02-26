@@ -21,6 +21,18 @@ $aside-width: 208px;
         background-color: $background-color;
     }
 
+    #mainnav {
+        li {
+            a {
+                padding: 5px 10px;
+            }
+
+            li a {
+                padding: 0 10px;
+            }
+        }
+    }
+
     #container {
         margin: 10px auto;
         width: $default-width;
@@ -101,7 +113,7 @@ $aside-width: 208px;
         width: $aside-width - 10px;
         box-shadow: none;
         background-color: inherit;
-        // height: 145px;
+        height: 225px;
         padding: 0px 5px 5px 5px;
     }
 }
