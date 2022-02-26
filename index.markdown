@@ -1,6 +1,5 @@
 ---
 title: Der Ochsenkoflerhof - Urlaub auf dem Bauernhof
-gallery_width: 524
 images:
   - roland/main/PR3_3783.jpg
   - old/Aufenthaltsraum-2.jpg

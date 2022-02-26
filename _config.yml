@@ -30,7 +30,7 @@ defaults:
             address:
                 location: Burgstall
                 street: Vöranerweg 4
-            gallery_width: 350
+            gallery_width: 100%
             heading:
                 left: Die Familie Burger
                 right: heißt Sie herzlich Willkommen auf dem Ochsenkoflerhof!

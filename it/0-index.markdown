@@ -1,7 +1,6 @@
 ---
 title: L´Ochsenkoflerhof
 permalink: it/
-gallery_width: 524
 tags: []
 images:
   - roland/main/PR3_3783.jpg
