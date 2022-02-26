@@ -72,6 +72,7 @@ $aside-width: 100%;
     background-color: $light-color;
     display: flex;
     flex-direction: column;
+    overflow: auto;
 }
 
 #homelink {
