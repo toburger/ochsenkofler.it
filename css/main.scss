@@ -12,7 +12,7 @@ layout: empty
 
 body, button, input, select, textarea {
     font-family: $default-font;
-    font-size: $default-font-size;
+    font-size: var(--default-font-size);
     line-height: 1.7em;
 }
 

@@ -18,7 +18,6 @@ $light-color: #fff;
 $default-font: 'Duru Sans', sans-serif;
 $header-font: 'UnifrakturCook', sans-serif;
 $header-font-weight: 700;
-$default-font-size: var(--default-font-size);
 
 @mixin background-image($img) {
     background-image: url('#{$img-url}#{$img}');
