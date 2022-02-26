@@ -70,6 +70,8 @@ $aside-width: 100%;
     clear: both;
     position: relative;
     background-color: $light-color;
+    display: flex;
+    flex-direction: column;
 }
 
 #homelink {
@@ -160,13 +162,12 @@ $aside-width: 100%;
 }
 
 #footer-aside {
-    display: none;
-    position: absolute;
-    bottom: 0px;
-    left: 0px;
+    box-shadow: inset 0 99px 19px -99px $dark-gray-color;
+    background-color: $light-gray-color;
+    order: 100;
     width: calc($aside-width - 10px);
     // height: 145px;
-    padding: 0px 5px 5px 5px;
+    padding: 10px 15px 15px 15px;
     vertical-align: bottom;
 }
 
