@@ -162,6 +162,7 @@ $aside-width: 100%;
 }
 
 #footer-aside {
+    box-sizing: border-box;
     box-shadow: inset 0 99px 19px -99px $dark-gray-color;
     background-color: $light-gray-color;
     order: 100;
