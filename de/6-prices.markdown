@@ -8,7 +8,7 @@ tags: [menu]
 
 ---
 
-# Preise 2022
+# Preise 2022 {#prices}
 
 {: .table .table7c .seasontable }
 |Saison|Mutspitz 2|Etschtal 3|Laugenspitz 1|Ortlerblick 4 mit dem Zimmer 4b Morgenduft|Akazienduft 4a|Waldruhe 1a|

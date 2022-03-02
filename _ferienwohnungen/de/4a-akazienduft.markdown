@@ -12,7 +12,7 @@ Sehr schönes Schlafzimmer für 2 Personen.
 * Schlafzimmer: Doppelbett, Kleiderschrank, Garderobe, Tisch/Stuhl, TV-Gerät, gratis WLAN, Vollholzmöbel, Holböden geölt.  
 * Bad: Dusche, WC, Föhn
 
-Preis: [von 45 € bis 60 €](/de/prices)
+Preis: [von 45 € bis 60 €](/de/prices#prices)
 
 {:.text-center}
 ![]({{ 'assets/images/grundrisse/obergeschoss_4a.jpg' | relative_url }})
