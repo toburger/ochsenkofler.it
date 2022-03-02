@@ -6,7 +6,9 @@ $img-url: '../assets/images/';
 }
 
 @media only screen and (min-width: 35em) {
-    --default-font-size: 12px;
+    :root {
+        --default-font-size: 12px;
+    }
 }
 
 $background-color: #ae2f2a;
