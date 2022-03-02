@@ -12,7 +12,7 @@ Geräumiges Schlafzimmer für 2 bis 3 Personen.
 * Schlafzimmer: Doppelbett, Couch, Garderobe, Kleiderschrank, Tisch/Stuhl, gratis WLAN, Massivholzmöbel und Holzboden geölt.  
 * Bad: Dusche, WC, Bidet, Föhn
 
-Preis: von 45 € bis 60 €
+Preis: [von 45 € bis 60 €](/de/prices)
 
 {:.text-center}
 ![]({{ 'assets/images/grundrisse/obergeschoss_4b.jpg' | relative_url }})
