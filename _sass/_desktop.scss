@@ -43,7 +43,7 @@ $aside-width: 208px;
 
     #main {
         display: grid;
-        grid-template-columns: auto $content-width;
+        grid-template-columns: $aside-width $content-width;
         grid-template-rows: 1fr auto;
         gap: 0;
     }
@@ -61,7 +61,6 @@ $aside-width: 208px;
 
     #footer-aside {
         order: inherit;
-        width: $aside-width - 10px;
         box-shadow: none;
         background-color: inherit;
         padding: 0px 5px 5px 5px;
