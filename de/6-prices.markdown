@@ -78,5 +78,3 @@ Für definitive Reservierungen bitten wir Sie um eine Anzahlung.
 
 
 Vertrauen Sie uns Ihren Urlaub an. Ganz einfach Prämie berechnen und buchen über die [Europäische Reiseversicherung](http://partner.europaeische.at/roter-hahn?AGN2=142311216){:target="_blank"}.
-
-transparentggtransparent
