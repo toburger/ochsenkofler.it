@@ -61,7 +61,7 @@ Bei genügender Teilnehmerzahl bieten wir eine Hofführung,
 sowie einen Grillabend oder einfach nur ein gemütliches Beisammensein im Aufenthalstraum bzw. auf der Terrasse an.
 
 Frühstück wird bei Nachfrage im Aufenthaltsraum angeboten:
-Preis pro Person 16 €, Kinder bis 6 Jahre: 6 €  
+Preis pro Person 20 €, Kinder bis 8 Jahre: 10 €  
 Das Frühstückbuffet steht zwischen 8:00 Uhr und 10:00 Uhr für Sie bereit.
 
 Das Frühstück beinhaltet hofeigene Produkte:
