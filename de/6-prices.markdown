@@ -8,20 +8,20 @@ tags: [menu]
 
 ---
 
-# Preise 2022 {#prices}
+# Preise 2023 {#prices}
 
 {: .table .table7c .seasontable }
 |Saison|Mutspitz 2|Etschtal 3|Laugenspitz 1|Ortlerblick 4 mit dem Zimmer 4b Morgenduft|Akazienduft 4a|Waldruhe 1a|
 |--- |--- |--- |--- |--- |--- |--- |
-|Nebensaison 08.01. - 08.04.|80 €|90 €|80 €|80 €|ÜF 77 €<br />ZZ 45 €|ÜF 77 €<br />ZZ 45 €|
-|Hochsaison 09.04. - 22.04.|110 €|120 €|110 €|110 €|ÜF 92 €<br />ZZ 60 €|ÜF 92 €<br />ZZ 60 €|
-|Zwischensaison 23.04. - 27.05|95 €|110 €|95 €|95 €|ÜF 82 €<br />ZZ 50 €|ÜF 82 €<br />ZZ 50 €|
-|Hochsaison 28.05. - 17.06|110 €|120 €|110 €|110 €|ÜF 92 €<br />ZZ 60 €|ÜF 92 €<br />ZZ 60 €|
-|Zwischensaison 18.06. - 01.07.|95 €|110 €|95 €|95 €|ÜF 82 €<br />ZZ 50 €|ÜF 82 €<br />ZZ 50 €|
-|Hochsaison 02.07. - 14.10.|110 €|120 €|110 €|110 €|ÜF 92 €<br />ZZ 60 €|ÜF 92 €<br />ZZ 60 €|
-|Zwischensaison 15.10. - 04.11.|95 €|110 €|95 €|95 €|ÜF 82 €<br />ZZ 50 €|ÜF 82 €<br />ZZ 50 €|
-|Nebensaison 05.11. - 16.12.|80 €|90 €|80 €|80 €|ÜF 77 €<br />ZZ 45 €|ÜF 77 €<br />ZZ 45 €|
-|Hochsaison 17.12. - 31.12.|110 €|120 €|110 €|110 €|ÜF 92 €<br />ZZ 60 €|ÜF 92 €<br />ZZ 60 €|
+|Nebensaison 08.01. - 31.03.|85 €|95 €|85 €|85 €|ÜF 85 €<br />ZZ 45 €|ÜF 85 €<br />ZZ 45 €|
+|Hochsaison 01.04. - 14.04.|120 €|130 €|120 €|130 €|ÜF 100 €<br />ZZ 60 €|ÜF 100 €<br />ZZ 60 €|
+|Zwischensaison 15.04. - 19.05.|105 €|115 €|105 €|105 €|ÜF 90 €<br />ZZ 50 €|ÜF 90 €<br />ZZ 50 €|
+|Hochsaison 20.05. - 09.06.|120 €|130 €|120 €|120 €|ÜF 100 €<br />ZZ 60 €|ÜF 100 €<br />ZZ 60 €|
+|Zwischensaison 10.06. - 30.06.|105 €|115 €|105 €|105 €|ÜF 90 €<br />ZZ 50 €|ÜF 90 €<br />ZZ 50 €|
+|Hochsaison 01.07. - 13.10.|120 €|130 €|120 €|120 €|ÜF 100 €<br />ZZ 60 €|ÜF 100 €<br />ZZ 60 €|
+|Zwischensaison 14.10. - 10.11.|105 €|115 €|105 €|105 €|ÜF 90 €<br />ZZ 50 €|ÜF 90 €<br />ZZ 50 €|
+|Nebensaison 11.11. - 07.12.|85 €|100 €|85 €|85 €|ÜF 85 €<br />ZZ 45 €|ÜF 85 €<br />ZZ 45 €|
+|Hochsaison 08.12. - 31.12.|120 €|130 €|120 €|120 €|ÜF 100 €<br />ZZ 60 €|ÜF 100 €<br />ZZ 60 €|
 
 ### Weitere Informationen
 

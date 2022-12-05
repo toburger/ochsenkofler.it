@@ -7,17 +7,17 @@ tags: [menu]
 # Prezzi 2022
 
 {: .table .table7c .seasontable }
-|Stagione|Mutspitz 2|Etschtal 3|Laugenspitz 1|Ortlerblick 4 con camera 4b Morgenduft|Akazienduft 4a|Waldruhe 1a|
+|Saison|Mutspitz 2|Etschtal 3|Laugenspitz 1|Ortlerblick 4 con camera 4b Morgenduft|Akazienduft 4a|Waldruhe 1a|
 |--- |--- |--- |--- |--- |--- |--- |
-|Bassa stagione 08/01 - 08/04|80 €|90 €|80 €|80 €|SC 77 €<br />SS 45 €|SC 77 €<br />SS 45 €|
-|Alta stagione 09/04 - 22/04|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
-|Media stagione 23/04 - 27/05|95 €|110 €|95 €|95 €|SC 82 €<br />SS 50 €|SC 82 €<br />SS 50 €|
-|Alta stagione 28/05 - 17/06|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
-|Media stagione 18/06 - 01/07|95 €|110 €|95 €|95 €|SC 82 €<br />SS 50 €|SC 82 €<br />SS 50 €|
-|Alta stagione 02/07 - 14/10|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
-|Media stagione 15/10 - 04/11|95 €|110 €|95 €|95 €|SC 82 €<br />SS 50 €|SC 82 €<br />SS 50 €|
-|Bassa stagione 05/11 - 16/12|80 €|90 €|80 €|80 €|SC 77 €<br />SS 45 €|SC 77 €<br />SS 45 €|
-|Alta stagione 17/12 - 31/12|110 €|120 €|110 €|110 €|SC 92 €<br />SS 60 €|SC 92 €<br />SS 60 €|
+|Bassa stagione 08/01 - 31/03|85 €|95 €|85 €|85 €|SC 85 €<br />SS 45 €|SC 85 €<br />SS 45 €|
+|Alta stagione 01/04 - 14/04|120 €|130 €|120 €|130 €|SC 100 €<br />SS 60 €|SC 100 €<br />SS 60 €|
+|Media stagione 15/04 - 19/05|105 €|115 €|105 €|105 €|SC 90 €<br />SS 50 €|SC 90 €<br />SS 50 €|
+|Alta stagione 20/05 - 09/06|120 €|130 €|120 €|120 €|SC 100 €<br />SS 60 €|SC 100 €<br />SS 60 €|
+|Media stagione 10/06 - 30/06|105 €|115 €|105 €|105 €|SC 90 €<br />SS 50 €|SC 90 €<br />SS 50 €|
+|Alta stagione 01/07 - 13/10|120 €|130 €|120 €|120 €|SC 100 €<br />SS 60 €|SC 100 €<br />SS 60 €|
+|Media stagione 14/10 - 10/11|105 €|115 €|105 €|105 €|SC 90 €<br />SS 50 €|SC 90 €<br />SS 50 €|
+|Bassa stagione 11/11 - 07/12|85 €|100 €|85 €|85 €|SC 85 €<br />SS 45 €|SC 85 €<br />SS 45 €|
+|Alta stagione 08/12 - 31/12|120 €|130 €|120 €|120 €|SC 100 €<br />SS 60 €|SC 100 €<br />SS 60 €|
 
 ### Altri informazioni
 
