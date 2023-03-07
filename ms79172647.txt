@@ -1,0 +1,5 @@
+{
+  "Description": "Überprüfungsdatei für Domänen-Eigentümerschaft für Microsoft 365-Position im Website-Root",
+  "Domain": "ochsenkofler.it",
+  "Id": "77563124-3a48-438e-a8ff-914de8e1dcbe"
+}
