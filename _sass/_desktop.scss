@@ -66,6 +66,12 @@ $aside-width: 208px;
         padding: 0px 5px 5px 5px;
         grid-column: 1;
         grid-row: 2;
+        
+        #layout-aside-first {
+            list-style-position: inside;
+            list-style-type: disclosure-closed;
+            padding: 5px;
+        }
     }
 
     #headercontent {
