@@ -4,7 +4,7 @@ permalink: it/prices/
 tags: [menu]
 ---
 
-# Prezzi 2022
+# Prezzi 2023
 
 {: .table .table7c .seasontable }
 |Saison|Mutspitz 2|Etschtal 3|Laugenspitz 1|Ortlerblick 4 con camera 4b Morgenduft|Akazienduft 4a|Waldruhe 1a|
