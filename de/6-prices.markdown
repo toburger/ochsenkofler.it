@@ -8,20 +8,18 @@ tags: [menu]
 
 ---
 
-# Preise 2023 {#prices}
+# Preise 2024 {#prices}
 
 {: .table .table7c .seasontable }
 |Saison|Mutspitz 2|Etschtal 3|Laugenspitz 1|Ortlerblick 4 mit dem Zimmer 4b Morgenduft|Akazienduft 4a|Waldruhe 1a|
 |--- |--- |--- |--- |--- |--- |--- |
-|Nebensaison 08.01. - 31.03.|85 €|95 €|85 €|85 €|ÜF 85 €<br />ZZ 45 €|ÜF 85 €<br />ZZ 45 €|
-|Hochsaison 01.04. - 14.04.|120 €|130 €|120 €|130 €|ÜF 100 €<br />ZZ 60 €|ÜF 100 €<br />ZZ 60 €|
-|Zwischensaison 15.04. - 19.05.|105 €|115 €|105 €|105 €|ÜF 90 €<br />ZZ 50 €|ÜF 90 €<br />ZZ 50 €|
-|Hochsaison 20.05. - 09.06.|120 €|130 €|120 €|120 €|ÜF 100 €<br />ZZ 60 €|ÜF 100 €<br />ZZ 60 €|
-|Zwischensaison 10.06. - 30.06.|105 €|115 €|105 €|105 €|ÜF 90 €<br />ZZ 50 €|ÜF 90 €<br />ZZ 50 €|
-|Hochsaison 01.07. - 13.10.|120 €|130 €|120 €|120 €|ÜF 100 €<br />ZZ 60 €|ÜF 100 €<br />ZZ 60 €|
-|Zwischensaison 14.10. - 10.11.|105 €|115 €|105 €|105 €|ÜF 90 €<br />ZZ 50 €|ÜF 90 €<br />ZZ 50 €|
-|Nebensaison 11.11. - 07.12.|85 €|100 €|85 €|85 €|ÜF 85 €<br />ZZ 45 €|ÜF 85 €<br />ZZ 45 €|
-|Hochsaison 08.12. - 31.12.|120 €|130 €|120 €|120 €|ÜF 100 €<br />ZZ 60 €|ÜF 100 €<br />ZZ 60 €|
+|Nebensaison 07.01. - 22.03.|100 €|115 €|100 €|100 €|50 €|50 €|
+|Zwischensaison 23.03. - 10.05.|120 €|130 €|120 €|120 €|50 €|50 €|
+|Hochsaison 11.05. - 31.05.|130 €|140 €|130 €|130 €|60 €|60 €|
+|Zwischensaison 01.06. - 28.06.|120 €|130 €|120 €|120 €|50 €|50 €|
+|Hochsaison 29.06. - 13.09.|130 €|140 €|130 €|130 €|60 €|60 €|
+|Zwischensaison 14.09. - 08.11.|120 €|130 €|120 €|130 €|50 €|50 €|
+|Hochsaison 14.12. - 06.01.|130 €|140 €|130 €|130 €|60 €|60 €|
 
 ### Weitere Informationen
 
@@ -35,7 +33,7 @@ Für Kinder bis zur Vollendung des 8. Lebensjahres werden 5,00 Euro anstatt der 
 
 
 
-In den Preisen inbegriffen sind die Bettwäsche, Handtücher, Geschirrtücher und die Endreinigung.
+In den Preisen inbegriffen sind ein ***Südtirol Guest Pass/Mobilcard***, die Bettwäsche, Handtücher, Geschirrtücher und die Endreinigung.
 
 
 
