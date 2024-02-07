@@ -11,15 +11,15 @@ tags: [menu]
 # Preise 2024 {#prices}
 
 {: .table .table7c .seasontable }
-|Saison|Mutspitz 2|Etschtal 3|Laugenspitz 1|Ortlerblick 4 mit dem Zimmer 4b Morgenduft|Akazienduft 4a|Waldruhe 1a|
-|--- |--- |--- |--- |--- |--- |--- |
-|Nebensaison 07.01. - 22.03.|100 €|115 €|100 €|100 €|50 €|50 €|
-|Zwischensaison 23.03. - 10.05.|120 €|130 €|120 €|120 €|50 €|50 €|
-|Hochsaison 11.05. - 31.05.|130 €|140 €|130 €|130 €|60 €|60 €|
-|Zwischensaison 01.06. - 28.06.|120 €|130 €|120 €|120 €|50 €|50 €|
-|Hochsaison 29.06. - 13.09.|130 €|140 €|130 €|130 €|60 €|60 €|
-|Zwischensaison 14.09. - 08.11.|120 €|130 €|120 €|130 €|50 €|50 €|
-|Hochsaison 14.12. - 06.01.|130 €|140 €|130 €|130 €|60 €|60 €|
+| Saison                         | Mutspitz 2 | Etschtal 3 | Laugenspitz 1 | Ortlerblick 4 mit dem Zimmer 4b Morgenduft | Akazienduft 4a | Waldruhe 1a |
+|--------------------------------|------------|------------|---------------|--------------------------------------------|----------------|-------------|
+| Nebensaison 07.01. - 22.03.    | 100 €      | 115 €      | 100 €         | 100 €                                      | 50 €           | 50 €        |
+| Zwischensaison 23.03. - 10.05. | 120 €      | 130 €      | 120 €         | 120 €                                      | 50 €           | 50 €        |
+| Hochsaison 11.05. - 31.05.     | 130 €      | 140 €      | 130 €         | 130 €                                      | 60 €           | 60 €        |
+| Zwischensaison 01.06. - 28.06. | 120 €      | 130 €      | 120 €         | 120 €                                      | 50 €           | 50 €        |
+| Hochsaison 29.06. - 13.09.     | 130 €      | 140 €      | 130 €         | 130 €                                      | 60 €           | 60 €        |
+| Zwischensaison 14.09. - 08.11. | 120 €      | 130 €      | 120 €         | 130 €                                      | 50 €           | 50 €        |
+| Hochsaison 14.12. - 06.01.     | 130 €      | 140 €      | 130 €         | 130 €                                      | 60 €           | 60 €        |
 
 ### Weitere Informationen
 

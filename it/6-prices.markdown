@@ -7,15 +7,15 @@ tags: [menu]
 # Prezzi 2024
 
 {: .table .table7c .seasontable }
-|Saison|Mutspitz 2|Etschtal 3|Laugenspitz 1|Ortlerblick 4 con camera 4b Morgenduft|Akazienduft 4a|Waldruhe 1a|
-|--- |--- |--- |--- |--- |--- |--- |
-|Bassa stagione 07/01 - 22/03|100 €|115 €|100 €|100 €|50 €|50 €|
-|Media stagione 23/03 - 10/05|120 €|130 €|120 €|120 €|50 €|50 €|
-|Alta stagione 11/05 - 31/05|130 €|140 €|130 €|130 €|60 €|60 €|
-|Media stagione 01/06 - 28/06|120 €|130 €|120 €|120 €|50 €|50 €|
-|Alta stagione 29/06 - 13/09|130 €|140 €|130 €|130 €|60 €|60 €|
-|Media stagione 14/09 - 08/11|120 €|130 €|120 €|130 €|50 €|50 €|
-|Alta stagione 14/12 - 06/01|130 €|140 €|130 €|130 €|60 €|60 €|
+| Saison                       | Mutspitz 2 | Etschtal 3 | Laugenspitz 1 | Ortlerblick 4 con camera 4b Morgenduft | Akazienduft 4a | Waldruhe 1a |
+|------------------------------|------------|------------|---------------|----------------------------------------|----------------|-------------|
+| Bassa stagione 07/01 - 22/03 | 100 €      | 115 €      | 100 €         | 100 €                                  | 50 €           | 50 €        |
+| Media stagione 23/03 - 10/05 | 120 €      | 130 €      | 120 €         | 120 €                                  | 50 €           | 50 €        |
+| Alta stagione 11/05 - 31/05  | 130 €      | 140 €      | 130 €         | 130 €                                  | 60 €           | 60 €        |
+| Media stagione 01/06 - 28/06 | 120 €      | 130 €      | 120 €         | 120 €                                  | 50 €           | 50 €        |
+| Alta stagione 29/06 - 13/09  | 130 €      | 140 €      | 130 €         | 130 €                                  | 60 €           | 60 €        |
+| Media stagione 14/09 - 08/11 | 120 €      | 130 €      | 120 €         | 130 €                                  | 50 €           | 50 €        |
+| Alta stagione 14/12 - 06/01  | 130 €      | 140 €      | 130 €         | 130 €                                  | 60 €           | 60 €        |
 
 ### Altri informazioni
 
