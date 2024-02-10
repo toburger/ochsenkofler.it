@@ -27,7 +27,7 @@ I Cani sono accettati negli appartamenti a pianoterra previo accordo, con supple
 
 ### Tassa di soggiorno
 
-Tutti gli ospiti da 14 anni in su devono versare la tassa di soggiorno di 1,35 Euro per persona a giorno. La tassa non è compresa nel prezzo offerto ed è calcolata separatamente. L’incasso della tassa di soggiorno è utilizzato per smontaggio e manutenzione dell’infrastruttura e dei servizi, e per l’organizzazione di eventi culturali e sportivi. Incluso nel prezzo offriamo biancheria da letto, asciugamani, canovacci e la pulizia finale.
+Tutti gli ospiti da 14 anni in su devono versare la tassa di soggiorno di 1,90 Euro per persona a giorno. La tassa non è compresa nel prezzo offerto ed è calcolata separatamente. L’incasso della tassa di soggiorno è utilizzato per smontaggio e manutenzione dell’infrastruttura e dei servizi, e per l’organizzazione di eventi culturali e sportivi. Incluso nel prezzo offriamo biancheria da letto, asciugamani, canovacci e la pulizia finale.
 
 Conteggiamo la pulizia finale ad 60,00 euro in caso di soggiorno inferiore ad una settimana.
 
