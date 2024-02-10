@@ -31,7 +31,7 @@ In den Preisen inbegriffen sind ein ***Südtirol Guest Pass/Mobilcard***, die Be
 
 ### Gemeindesteuer Ortstaxe
 
-Für alle Gäste ab 14 Jahre wird eine Ortstaxe von 1,35 Euro pro Person und Tag eingehoben. Diese Abgabe ist nicht im Preis enthalten und wird getrennt berechnet.
+Für alle Gäste ab 14 Jahre wird eine Ortstaxe von 1,90 Euro pro Person und Tag eingehoben. Diese Abgabe ist nicht im Preis enthalten und wird getrennt berechnet.
 
 Die Einnahmen aus der Ortstaxe werden für den Ausbau und die Erhaltung von Infrastrukturen und Dienstleistungen, sowie für die Organisation von kulturellen und sportlichen Veranstaltungen eingesetzt.
 
