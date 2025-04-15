@@ -8,18 +8,17 @@ tags: [menu]
 
 ---
 
-# Preise 2024 {#prices}
+# Preise 2025 {#prices}
 
 {: .table .table7c .seasontable }
 | Saison                         | Mutspitz 2 | Etschtal 3 | Laugenspitz 1 | Ortlerblick 4 mit dem Zimmer 4b Morgenduft | Akazienduft 4a | Waldruhe 1a |
 |--------------------------------|------------|------------|---------------|--------------------------------------------|----------------|-------------|
-| Nebensaison 07.01. - 22.03.    | 100 €      | 115 €      | 100 €         | 100 €                                      | 50 €           | 50 €        |
-| Zwischensaison 23.03. - 10.05. | 120 €      | 130 €      | 120 €         | 120 €                                      | 50 €           | 50 €        |
-| Hochsaison 11.05. - 31.05.     | 130 €      | 140 €      | 130 €         | 130 €                                      | 60 €           | 60 €        |
-| Zwischensaison 01.06. - 28.06. | 120 €      | 130 €      | 120 €         | 120 €                                      | 50 €           | 50 €        |
-| Hochsaison 29.06. - 13.09.     | 130 €      | 140 €      | 130 €         | 130 €                                      | 60 €           | 60 €        |
-| Zwischensaison 14.09. - 08.11. | 120 €      | 130 €      | 120 €         | 130 €                                      | 50 €           | 50 €        |
-| Hochsaison 14.12. - 06.01.     | 130 €      | 140 €      | 130 €         | 130 €                                      | 60 €           | 60 €        |
+| Nebensaison 07.01. - 11.04.    | 115 €      | 125 €      | 115 €         | 115 €                                      | 50 €           | 50 €        |
+| Hochsaison 12.04. - 25.04.     | 135 €      | 150 €      | 145 €         | 135 €                                      | 70 €           | 70 €        |
+| Zwischensaison 26.04. - 23.05. | 120 €      | 130 €      | 120 €         | 120 €                                      | 50 €           | 50 €        |
+| Hochsaison 24.05. - 12.09.     | 135 €      | 150 €      | 145 €         | 135 €                                      | 70 €           | 70 €        |
+| Zwischensaison 13.09. - 19.12. | 120 €      | 130 €      | 120 €         | 120 €                                      | 50 €           | 50 €        |
+| Hochsaison 20.12. - 06.01.     | 135 €      | 150 €      | 135 €         | 135 €                                      | 70 €           | 70 €        |
 
 ### Weitere Informationen
 
@@ -31,7 +30,7 @@ In den Preisen inbegriffen sind ein ***Südtirol Guest Pass/Mobilcard***, die Be
 
 ### Gemeindesteuer Ortstaxe
 
-Für alle Gäste ab 14 Jahre wird eine Ortstaxe von 1,90 Euro pro Person und Tag eingehoben. Diese Abgabe ist nicht im Preis enthalten und wird getrennt berechnet.
+Für alle Gäste ab 14 Jahre wird eine Ortstaxe von 2,10 Euro pro Person und Tag eingehoben. Diese Abgabe ist nicht im Preis enthalten und wird getrennt berechnet.
 
 Die Einnahmen aus der Ortstaxe werden für den Ausbau und die Erhaltung von Infrastrukturen und Dienstleistungen, sowie für die Organisation von kulturellen und sportlichen Veranstaltungen eingesetzt.
 
