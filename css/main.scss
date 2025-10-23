@@ -10,6 +10,15 @@ layout: empty
     text-align: center;
 }
 
+.size-md {
+    width: 100%;
+    display: block;
+
+    img {
+        width: 300px;
+    }
+}
+
 body, button, input, select, textarea {
     font-family: $default-font;
     font-size: var(--default-font-size);
