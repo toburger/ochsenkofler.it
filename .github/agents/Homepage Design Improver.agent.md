@@ -40,16 +40,17 @@ Avoid broad content rewrites or backend changes unrelated to homepage styling.
 
 ## Project Tech Stack
 
-- **Jekyll 4.3.x** with **Ruby 4.x** (chruby), built via `bundle exec jekyll build`
-- **Dart Sass** — use modern `@use`/`@forward` syntax, NOT `@import`
+- **Jekyll 3.9.x** via `gem "github-pages"` — deployed directly via GitHub Pages (no custom Actions needed)
+- **Ruby Sass 3.7.x** (legacy) — use `@import` syntax, NOT `@use`/`@forward` (not supported)
+- Variables and mixins are in scope directly after `@import 'globals'` — no namespace prefix
 - CSS entry point: `css/main.scss` (uses `layout: empty` front matter so Jekyll compiles it but wraps no HTML)
 - Compiled output: `css/main.css` — linked from `_includes/head.html`
 
 ## Sass Architecture
 
 ```
-css/main.scss          ← entry point (@use the partials below)
-_sass/_globals.scss    ← variables and mixins (loaded with @use 'globals' as *)
+css/main.scss          ← entry point (@import the partials below)
+_sass/_globals.scss    ← variables and mixins (loaded with @import 'globals')
 _sass/_mobile.scss     ← base/mobile-first styles
 _sass/_desktop.scss    ← desktop breakpoint overrides
 _sass/_layout.scss     ← minima leftover, largely unused — avoid editing
