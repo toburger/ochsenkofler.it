@@ -71,3 +71,23 @@ table.pricetable tbody td {
 @import 'mobile';
 
 @import 'desktop';
+
+#content blockquote.disclaimer {
+    background-color: #fbf7f3;
+    border-left: 4px solid $dark-color;
+    margin: 1em 0;
+    padding: 0.9em 1.1em;
+    text-align: left;
+    font-size: 1em;
+    line-height: 1.55;
+
+    p:first-child {
+        font-weight: 600;
+    }
+}
+
+@media only screen and (max-width: 34.99em) {
+    #content blockquote.disclaimer {
+        padding: 0.75em 0.9em;
+    }
+}

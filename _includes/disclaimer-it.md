@@ -7,4 +7,4 @@
 >
 > Un caro saluto  
 > Marlene e Bernhard
-{: .text-center style="font-size: 1.5em; line-height: 1.7em; background-color: #f9f2f4; padding: 2em; margin-top: 1.4em"}
+{: .disclaimer}
