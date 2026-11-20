@@ -27,6 +27,17 @@ layout: compress
                 </div>
                 <div>
                     <article>
+
+                        {% capture disclaimer %}
+                            {% if page.language == 'it' %}
+                                {% include disclaimer-it.md %}
+                            {% else %}
+                                {% include disclaimer.md %}
+                            {% endif %}
+                        {% endcapture %}
+
+                        {{ disclaimer | markdownify }}
+
                         {{ content }}
                     </article>
                 </div>
